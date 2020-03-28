@@ -19,6 +19,7 @@
         <nav>
 	    <h1>tilde one</h1>
             <ul>
+                <li><a href="/~one">Homepage</a></li>
                 <li><a href="https://tildegit.org/one/setup">Join</a></li>
                 <li><a href="https://tildegit.org/one/site">Source</a></li>
             </ul>
@@ -26,6 +27,10 @@
         <h1>Welcome to the tilde server for one</h1>
         <p>Come and join the collective!</p>
         <br>
+        <!-- p>Want to see what is going on now? Check out the live view of the terminal here:</p>
+	<p>
+	    <a href="#"><b>Terminal Livestream</b></a>
+	</p -->
     </header>
     <main>
         <hr>
@@ -56,6 +61,10 @@
             <details>
                 <summary>How to I close my SSH session without closing the tmux window?</summary>
 		<p>The setup is done such that detaching from the session using <samp>Ctrl-b d</samp> will also result in logging out of your SSH session.</p>
+            </details>
+            <details>
+                <summary>How to I make changes to the user homepage?</summary>
+		<p>Any and all changes made within <samp>~/public_html/</samp> will be reflected under the <a href="/~one">homepage</a>.</p>
             </details>
             <details>
                 <summary>That all sounds crazy!</summary>
