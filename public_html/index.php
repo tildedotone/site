@@ -27,10 +27,10 @@
         <h1>Welcome to the tilde server for one</h1>
         <p>Come and join the collective!</p>
         <br>
-        <!-- p>Want to see what is going on now? Check out the live view of the terminal here:</p>
+        <p>Want to see what is going on now? Check out the live view of the terminal here:</p>
 	<p>
-	    <a href="#"><b>Terminal Livestream</b></a>
-	</p -->
+	    <a href="https://live.tilde.one"><b>Terminal Livestream</b></a>
+	</p>
     </header>
     <main>
         <hr>
