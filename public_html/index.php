@@ -77,6 +77,13 @@
         <p>
 	    Have a question? Ask on the <a href="https://tilde.chat">IRC server</a> in the <u>#one</u> channel or via an issue on the <a href="https://tildegit.org/one/setup/issues/new">git repository</a>
         </p>
+    
+    <!-- Tildeverse Banner Exchange code begin -->
+    <div style="text-align: center;">
+        <iframe src="https://banner.tildeverse.org/work.php?ID=tildeone" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" target="_blank"></iframe>
+    </div>
+    <!-- Tildeverse Banner Exchange code end -->
+    
     </footer>
 </body>
 
