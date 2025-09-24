@@ -56,7 +56,7 @@
             </details>
             <details>
                 <summary>How do I join?</summary>
-		<p>Simply follow the steps <a href="https://tildegit.org/one/setup/src/branch/master/README.md">here</a> to join.</p>
+		<p>Simply follow the steps <a href="https://github.com/tildedotone/setup/src/branch/master/README.md">here</a> to join.</p>
             </details>
             <details>
                 <summary>How to I close my SSH session without closing the tmux window?</summary>
@@ -76,7 +76,7 @@
         <hr>
     <!-- Tildeverse Banner Exchange code begin -->
     <div style="text-align: center;">
-        <iframe src="https://banner.tildeverse.org/work.php?ID=tildeone" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" target="_blank"></iframe>
+        <iframe src="https://tildeexchange.org/work.php?ID=tildeone" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" target="_blank"></iframe>
     </div>
     <!-- Tildeverse Banner Exchange code end -->
         <p>
