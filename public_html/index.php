@@ -20,8 +20,8 @@
 	    <h1>tilde one</h1>
             <ul>
                 <li><a href="/~one">Homepage</a></li>
-                <li><a href="https://tildegit.org/one/setup">Join</a></li>
-                <li><a href="https://tildegit.org/one/site">Source</a></li>
+                <li><a href="https://github.com/tildedotone/setup">Join</a></li>
+                <li><a href="https://github.com/tildedotone/site">Source</a></li>
             </ul>
         </nav>
         <h1>Welcome to the tilde server for one</h1>
