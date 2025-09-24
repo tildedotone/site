@@ -80,7 +80,7 @@
     </div>
     <!-- Tildeverse Banner Exchange code end -->
         <p>
-	    Have a question? Ask on the <a href="https://newnet.net">IRC server</a> in the <u>#one</u> channel or via an issue on the <a href="https://tildegit.org/one/setup/issues/new">git repository</a>
+	    Have a question? Ask on the <a href="https://newnet.net">IRC server</a> in the <u>#one</u> channel or via an issue on the <a href="https://github.com/tildedotone/site/issues/new">git repository</a>
         </p>   
     </footer>
 </body>
