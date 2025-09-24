@@ -29,7 +29,7 @@
         <br>
         <p>Want to see what is going on now? Check out the live view of the terminal here:</p>
 	<p>
-	    <a href="https://live.tilde.one"><b>Terminal Livestream</b></a>
+	    <a href="https://tilde.one/live" target="_blank"><b>Terminal Livestream</b></a>
 	</p>
     </header>
     <main>
